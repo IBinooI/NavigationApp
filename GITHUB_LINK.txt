@@ -1,7 +1,7 @@
 Repository URL: https://github.com/IBinooI/NavigationApp
 Student Name: Paul Rubio
 Student ID: n01429146
-Lab: CPAN 213 - Lab 8
+Lab: CPAN 213 - Lab 4
 Date: November 12, 2025
 Navigation Features Implemented:
 - Stack Navigator with 3 screens (Home, Details, Profile)
